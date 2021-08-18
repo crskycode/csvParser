@@ -1,0 +1,3 @@
+[submodule "krkr_plugin_sdk"]
+	path = krkr_plugin_sdk
+	url = https://github.com/crskycode/krkr_plugin_sdk.git
