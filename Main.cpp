@@ -1,5 +1,5 @@
 ﻿#include <windows.h>
-#include "tp_stub.h"
+#include "krkr_plugin_sdk/tp_stub.h"
 #include <stdio.h>
 #include <string>
 

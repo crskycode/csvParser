@@ -11,10 +11,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="krkr_plugin_sdk\tp_stub.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="csvParser.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="krkr_plugin_sdk\tp_stub.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
